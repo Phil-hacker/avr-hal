@@ -5,8 +5,6 @@ pub use embedded_hal as hal;
 pub use embedded_hal_v0 as hal_v0;
 
 #[doc(hidden)]
-pub use avr_device;
-#[doc(hidden)]
 pub use nb;
 #[doc(hidden)]
 pub use paste;
